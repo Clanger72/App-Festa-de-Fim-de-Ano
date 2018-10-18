@@ -1,0 +1,7 @@
+package com.example.claudia.festafimdeano.constanse;
+
+public class FimDeAnoConstance {
+    public static final String PRESENCE = "presence_key";
+    public static final String CONFIRMED_WILL_GO = "yes";
+    public static final String CONFIRMED_WONT_GO = "no";
+}
